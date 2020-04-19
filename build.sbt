@@ -1,7 +1,7 @@
 lazy val root = project
   .in(file("."))
   .settings(
-    name := "dotty-simple",
+    name := "dotty_internals-learning",
     version := "0.1.0",
 
     scalaVersion := "0.23.0-RC1",
