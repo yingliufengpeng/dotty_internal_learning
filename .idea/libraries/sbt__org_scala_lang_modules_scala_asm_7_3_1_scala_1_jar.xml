@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-lang.modules:scala-asm:7.3.1-scala-1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/scala-lang/modules/scala-asm/7.3.1-scala-1/scala-asm-7.3.1-scala-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/scala-lang/modules/scala-asm/7.3.1-scala-1/scala-asm-7.3.1-scala-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/scala-lang/modules/scala-asm/7.3.1-scala-1/scala-asm-7.3.1-scala-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: ch.epfl.lamp:dotty-interfaces:0.23.0-bin-20200316-6948038-NIGHTLY:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/ch/epfl/lamp/dotty-interfaces/0.23.0-bin-20200316-6948038-NIGHTLY/dotty-interfaces-0.23.0-bin-20200316-6948038-NIGHTLY.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/ch/epfl/lamp/dotty-interfaces/0.23.0-bin-20200316-6948038-NIGHTLY/dotty-interfaces-0.23.0-bin-20200316-6948038-NIGHTLY-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/ch/epfl/lamp/dotty-interfaces/0.23.0-bin-20200316-6948038-NIGHTLY/dotty-interfaces-0.23.0-bin-20200316-6948038-NIGHTLY-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
